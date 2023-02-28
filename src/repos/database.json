@@ -1,0 +1,128 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "name": { "firstName": "Jeet", "lastName": "Shah" },
+      "tag": "Front-End Developer",
+      "email": "jeetshah@vayana.com",
+      "contact": [
+        {
+          "cid": 0,
+          "type": "primary",
+          "number": "7283838410"
+        }
+      ],
+      "address": {
+        "value": "4/ Sri Krishna Duplex",
+        "label": "Home"
+      }
+    },
+    {
+      "id": 1,
+      "name": { "firstName": "Jeet", "lastName": "Shah" },
+      "tag": "Front-End Developer",
+      "email": "jeetshah@vayana.com",
+      "contact": [
+        {
+          "cid": 0,
+          "type": "primary",
+          "number": "7283838410"
+        }
+      ],
+      "address": {
+        "value": "4/ Sri Krishna Duplex",
+        "label": "Home"
+      }
+    },
+    {
+      "id": 2,
+      "name": { "firstName": "Jeet", "lastName": "Shah" },
+      "tag": "Front-End Developer",
+      "email": "jeetshah@vayana.com",
+      "contact": [
+        {
+          "cid": 0,
+          "type": "primary",
+          "number": "7283838410"
+        }
+      ],
+      "address": {
+        "value": "4/ Sri Krishna Duplex",
+        "label": "Home"
+      }
+    },
+    {
+      "id": 3,
+      "name": { "firstName": "Jeet", "lastName": "Shah" },
+      "tag": "Front-End Developer",
+      "email": "jeetshah@vayana.com",
+      "contact": [
+        {
+          "cid": 0,
+          "type": "primary",
+          "number": "7283838410"
+        },
+        {
+          "cid": 1,
+          "type": "primary",
+          "number": "9227160766"
+        }
+      ],
+      "address": {
+        "value": "4/ Sri Krishna Duplex",
+        "label": "Home"
+      }
+    },
+    {
+      "id": 4,
+      "name": { "firstName": "Jeet", "lastName": "Shah" },
+      "tag": "Front-End Developer",
+      "email": "jeetshah@vayana.com",
+      "contact": [
+        {
+          "cid": 0,
+          "type": "primary",
+          "number": "7283838410"
+        }
+      ],
+      "address": {
+        "value": "4/ Sri Krishna Duplex",
+        "label": "Home"
+      }
+    },
+    {
+      "id": 5,
+      "name": { "firstName": "Jeet", "lastName": "Shah" },
+      "tag": "Front-End Developer",
+      "email": "jeetshah@vayana.com",
+      "contact": [
+        {
+          "cid": 0,
+          "type": "primary",
+          "number": "7283838410"
+        }
+      ],
+      "address": {
+        "value": "4/ Sri Krishna Duplex",
+        "label": "Home"
+      }
+    },
+    {
+      "id": 6,
+      "name": { "firstName": "Jeet", "lastName": "Shah" },
+      "tag": "Front-End Developer",
+      "email": "jeetshah@vayana.com",
+      "contact": [
+        {
+          "cid": 0,
+          "type": "primary",
+          "number": "7283838410"
+        }
+      ],
+      "address": {
+        "value": "4/ Sri Krishna Duplex",
+        "label": "Home"
+      }
+    }
+  ]
+}
